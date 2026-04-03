@@ -1,3 +1,8 @@
+spring:
+  application:
+    name: configdefault
+
+
 eureka:
   client:
     service-url:
